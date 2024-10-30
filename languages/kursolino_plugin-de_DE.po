@@ -1,0 +1,109 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kursolino\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-16 07:34+0000\n"
+"PO-Revision-Date: 2020-04-21 11:56+0000\n"
+"Last-Translator: \n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4"
+
+#. Name of the plugin
+#. Author of the plugin
+msgid "Kursolino"
+msgstr "Kursolino"
+
+#. Description of the plugin
+msgid ""
+"Plugin to integrate your content from the course management software of "
+"Kursolino."
+msgstr ""
+"Plugin zur Verknüpfung deiner Inhalte aus der Kursverwaltungssoftware von "
+"Kursolino."
+
+#. URI of the plugin
+msgid "https://www.kursolino.de/wordpress-plugin/"
+msgstr "https://www.kursolino.de/wordpress-plugin/"
+
+#. Author URI of the plugin
+msgid "https://www.kursolino.de"
+msgstr "https://www.kursolino.de"
+
+msgid "Kursolino Shortcode Generator"
+msgstr "Kursolino Shortcode Generator"
+
+msgid "Your Kursolino Account"
+msgstr "Dein Kursolino Accoount"
+
+msgid "Please check your login data."
+msgstr "Bitte überprüfe deine angegebenen Zugangsdaten."
+
+msgid ""
+"Your login data are invalid or you are not the owner of this Kursolino "
+"account."
+msgstr ""
+"Deine angegebenen Zugangsdaten sind ungültig oder du bist nicht der Inhaber "
+"des Kursolino Accounts."
+
+msgid "Module"
+msgstr "Modul"
+
+msgid "Shortcode"
+msgstr "Shortcode"
+
+msgid "Kursolino Wordpress Plugin"
+msgstr "Kursolino Wordpress Plugin"
+
+msgid "E-Mail Address"
+msgstr "E-Mail Adresse"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid "Please login with your Kursolino login credentials."
+msgstr "Bitte melde dich hier mit deinen Kursolino Zugangsdaten an."
+
+msgid "You don't have an account yet? Register %s for free!"
+msgstr ""
+"Du hast noch keinen Account? %s kannst du dich kostenlos und unverbindlich "
+"registrieren!"
+
+msgid "here"
+msgstr "Hier"
+
+msgid ""
+"You can now access and integrate your contents from Kursolino on editing a "
+"page."
+msgstr ""
+"Du kannst jetzt beim bearbeiten einer Seite auf deine Kursolino Inhalte "
+"zurückgreifen und integrieren."
+
+msgid "Owner"
+msgstr "Inhaber"
+
+msgid "Domain"
+msgstr ""
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Re-Login"
+msgstr "Neu anmelden"
+
+msgid "Sign In"
+msgstr "Anmelden"
+
+msgid "Unknown Error Code"
+msgstr "Unbekannter Fehlercode"
+
+msgid "Kursolino Backend"
+msgstr "Kursolino Administration"
+
+msgid "Please Choose..."
+msgstr "Bitte wählen..."

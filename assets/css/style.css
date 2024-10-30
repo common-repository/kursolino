@@ -1,0 +1,82 @@
+/**
+ * PLUGIN SETTINGS
+ */
+#kursolino-options .section {
+    background: #FFF;
+    padding: .5em 1em;
+    border: 1px solid #CCC;
+}
+
+#kursolino-options .section,
+#kursolino-options .license {
+    max-width: 600px !important;
+}
+
+#kursolino-options .license {
+    margin: 2em auto;
+}
+
+#kursolino-options .license .submit {
+    padding: 0 !important;
+    margin: 0 !important;
+    text-align: right;
+}
+
+#kursolino-options .button-small .dashicons {
+    font-size: 15px;
+    width: 15px;
+    height: 15px;
+    vertical-align: middle;
+    margin-top: -2px;
+    margin-right: 4px;
+}
+
+/**
+ * EDIT POST / PAGE
+ */
+#kursolino_shortcode {
+    display: none;
+}
+
+.kursolino_meta_box {
+    display: grid;
+    grid-template-columns: max-content 1fr;
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+    padding: 1em 0;
+}
+
+.kursolino_meta_field.separator {
+    display: block;
+    grid-column: span 2;
+}
+
+.kursolino_meta_field.separator hr {
+    width: 100%;
+    height: 1px;
+    border-top: 1px solid #e2e4e7;
+}
+
+.kursolino_meta_field {
+    display: contents;
+}
+
+.kursolino_meta_field label {
+    padding: .5em;
+    min-width: 100px;
+}
+
+.kursolino_meta_box .dashicons.spin {
+    margin: .2em 0;
+    animation: dashicons-spin 1s infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes dashicons-spin {
+    0% {
+        transform: rotate( 0deg );
+    }
+    100% {
+        transform: rotate( 360deg );
+    }
+}
